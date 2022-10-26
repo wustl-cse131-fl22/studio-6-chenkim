@@ -88,7 +88,6 @@ public class RecursiveMethods {
 		else {
 			circlesUponCircles(xCenter/2, yCenter/2, radius/2, radiusMinimumDrawingThreshold);
 		}
-		// FIXME
 	}
-
+//ah
 }
